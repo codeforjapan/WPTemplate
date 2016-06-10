@@ -1,0 +1,22 @@
+{
+  "name": "cfj_wptemplate",
+  "version": "1.0.0",
+  "description": "cfjwebsite",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeforjapan/WPTemplate.git"
+  },
+  "author": "cfj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeforjapan/WPTemplate/issues"
+  },
+  "homepage": "https://github.com/codeforjapan/WPTemplate#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
