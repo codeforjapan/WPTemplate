@@ -1,0 +1,27 @@
+{
+  "name": "cfj_wptemplate",
+  "version": "1.0.0",
+  "description": "CFJ Website wordpress template ## フォルダ構成 ###本番用WPテーマ cfj/ ###ワイヤーフレーム用WPテーマ cfj_wire/ ###本番用静的コーディング coding/ ###ワイヤーフレーム用静的コーディング wire_static/",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeforjapan/WPTemplate.git"
+  },
+  "author": "iizawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeforjapan/WPTemplate/issues"
+  },
+  "homepage": "https://github.com/codeforjapan/WPTemplate#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-ejs": "^2.2.0",
+    "gulp-postcss": "^6.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "postcss-cssnext": "^2.7.0"
+  }
+}
