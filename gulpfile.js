@@ -19,9 +19,9 @@ gulp.task('sass', function() {
       cssnext()
   ];
   return gulp.src('dev/sass/**/*.scss')
-    .pipe(sass())
+    .pipe(sass({outputStyle: 'expanded'}))
     .pipe(postcss(processors))
-    .pipe(gulp.dest('static/aseets/css/'))
+    .pipe(gulp.dest('static/assets/css/'))
 });
 
 gulp.task('watch', function(){
