@@ -72,7 +72,7 @@ ga('send', 'pageview');
         </div>
       </div>
 
-      <h2 class="headings">公認団体（40）</h2>
+      <h2 class="headings">公認団体（47）</h2>
       <div class="secbox">
         <div class="secbox__left">
           <ul class="brigadelist">
@@ -101,11 +101,11 @@ ga('send', 'pageview');
             <li><a href="http://t.umblr.com/redirect?z=https%3A%2F%2Fwww.facebook.com%2Fcodeforkawasaki&amp;t=MmIzNDk5OTQzYzVhOGM5YmE1N2JmZTU0YTZiMDEwOTliMDI3NzU3MixUbU4zdWpESg%3D%3D&amp;p=&amp;m=0" target="_blank"><span class="CfJtext">Code for Kawasaki</span></a> / 神奈川県川崎市</li>
             <li><a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fcode4.yokohama&amp;t=YzE1MTBlN2YyNDA3NjMyNGMzMDY3N2FiY2RlYmQyYjQxYjJlNjE3ZixUbU4zdWpESg%3D%3D&amp;p=&amp;m=0" target="_blank"><span class="CfJtext">Code for YOKOHAMA</span></a> / 神奈川県横浜市</li>
             <li><a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.code4numazu.org%2F&amp;t=OWY3NjNjNGJhNGMzYmZhZDc3NmE0MTM4NjI3YTM5Yzk0ZTAxZjFhMSxUbU4zdWpESg%3D%3D&amp;p=&amp;m=0" target="_blank"><span class="CfJtext">Code for Numazu</span></a> / 静岡県沼津市</li>
-            <li><a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.codeforniigata.org%2F&amp;t=MTE0Y2YwOGVlM2VkNGRiNmVkMmZkYWM1ODEzMTkxM2I1ZTM2MzlmZSxUbU4zdWpESg%3D%3D&amp;p=&amp;m=0" target="_blank"><span class="CfJtext">Code for Niigata</span></a> / 新潟県新潟市</li>
           </ul>
         </div>
         <div class="secbox__right">
           <ul class="brigadelist">
+            <li><a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.codeforniigata.org%2F&amp;t=MTE0Y2YwOGVlM2VkNGRiNmVkMmZkYWM1ODEzMTkxM2I1ZTM2MzlmZSxUbU4zdWpESg%3D%3D&amp;p=&amp;m=0" target="_blank"><span class="CfJtext">Code for Niigata</span></a> / 新潟県新潟市</li>
             <li><a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fcode4takaoka.e-nat.org%2F&amp;t=OWVjNmU1OTRjY2JlNDFkYWZlYmUzMDBmZmNiMzI3YzIzNjljZjNhNCxUbU4zdWpESg%3D%3D&amp;p=&amp;m=0" target="_blank"><span class="CfJtext">Code for Takaoka</span></a> / 富山県高岡市</li>
             <li><a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.7104.info%2Fcodefor%2F&amp;t=NDhkMDM0ZDI0YjlkYzc4NjRlYWFjMjMwNTA1YTc1N2ZmNDM0NDJiYixUbU4zdWpESg%3D%3D&amp;p=&amp;m=0" target="_blank"><span class="CfJtext">Code for Nanto</span></a> / 富山県南砺市</li>
             <li><a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.codeforkanazawa.org%2F&amp;t=NGI5OTVmZjFmMDhlMzQ5NWY4OGY2NDBmMTdjMDk2NzdjMmFhMzNhOSxUbU4zdWpESg%3D%3D&amp;p=&amp;m=0" target="_blank"><span class="CfJtext">Code for Kanazawa</span></a> / 石川県</li>
@@ -132,7 +132,7 @@ ga('send', 'pageview');
           </ul>
         </div>
       </div>
-      <h2 class="headings">公認準備中（34）</h2>
+      <h2 class="headings">公認準備中（37）</h2>
       <div class="secbox">
         <div class="secbox__left">
           <ul class="brigadelist">
