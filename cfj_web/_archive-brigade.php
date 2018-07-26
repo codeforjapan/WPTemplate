@@ -72,11 +72,11 @@ ga('send', 'pageview');
         </div>
       </div>
 
-      <h2 class="headings">公認団体（47）</h2>
+      <h2 class="headings">公認団体（48）</h2>
       <div class="secbox">
         <div class="secbox__left">
           <ul class="brigadelist">
-            <!-- <li><a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.codeforsapporo.org%2F&amp;t=MmY4MmU2NDc1ZjYzZmM5NjQ2NjMzMDg1YmVlYTg5ZjRlNmUyYWJkOSxUbU4zdWpESg%3D%3D&amp;p=&amp;m=0" target="_blank"><span class="CfJtext">Code for Sapporo</span></a> / 北海道札幌市</li> -->
+            <li><a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.codeforsapporo.org%2F&amp;t=MmY4MmU2NDc1ZjYzZmM5NjQ2NjMzMDg1YmVlYTg5ZjRlNmUyYWJkOSxUbU4zdWpESg%3D%3D&amp;p=&amp;m=0" target="_blank"><span class="CfJtext">Code for Sapporo</span></a> / 北海道札幌市</li>
             <li><a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fcodeforhakodate.org&amp;t=ZWQxMDA0MWZmZDRjM2Q4NjAzNmE4ZTk5Y2YzYTNlNDE3MDQyNTg1MCxUbU4zdWpESg%3D%3D&amp;p=&amp;m=0" target="_blank"><span class="CfJtext">Code for Hakodate</span></a> / 北海道函館市</li>
             <li><a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fcodeforhakodate.org&amp;t=ZWQxMDA0MWZmZDRjM2Q4NjAzNmE4ZTk5Y2YzYTNlNDE3MDQyNTg1MCxUbU4zdWpESg%3D%3D&amp;p=&amp;m=0" target="_blank"><span class="CfJtext">Code for Akita</span></a> / 秋田県秋田市</li>
             <li><a href="http://t.umblr.com/redirect?z=https%3A%2F%2Fwww.facebook.com%2FCodeForShiogama&amp;t=ZjJjMGE2ZDA1ZWQyOWZkYjA4MTM0M2YwNTQ0NWEyZGI4ZTJlNjYwZixUbU4zdWpESg%3D%3D&amp;p=&amp;m=0" target="_blank"><span class="CfJtext">Code for Shiogama</span></a> / 宮城県塩竈市</li>
