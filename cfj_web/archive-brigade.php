@@ -72,7 +72,7 @@ ga('send', 'pageview');
         </div>
       </div>
 
-      <h2 class="headings">公認団体（48）</h2>
+      <h2 class="headings">公認団体（49）</h2>
       <div class="secbox">
         <div class="secbox__left">
           <ul class="brigadelist">
@@ -132,7 +132,7 @@ ga('send', 'pageview');
           </ul>
         </div>
       </div>
-      <h2 class="headings">公認準備中（37）</h2>
+      <h2 class="headings">公認準備中（38）</h2>
       <div class="secbox">
         <div class="secbox__left">
           <ul class="brigadelist">
