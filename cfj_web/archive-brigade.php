@@ -155,11 +155,11 @@ ga('send', 'pageview');
             <li><span class="CfJtext">Code for Chuo</span> / 東京都中央区</li>
             <li><a href='http://code4nerima.org' target='_blank'><span class="CfJtext">Code for Nerima</span></a> / 東京都練馬区</li>
             <li><span class="CfJtext">Code for Chigasaki</span> / 神奈川県茅ケ崎市</li>
-            <li><a href='http://timecapsuleinc.org/news/' target='_blank'><span class="CfJtext">Code for Yokosuka</span></a> / 神奈川県横須賀市</li>
           </ul>
         </div>
         <div class="secbox__right">
           <ul class="brigadelist">
+            <li><a href='http://timecapsuleinc.org/news/' target='_blank'><span class="CfJtext">Code for Yokosuka</span></a> / 神奈川県横須賀市</li>
             <li><span class="CfJtext">Code for Shizuoka</span> / 静岡県</li>
             <li><span class="CfJtext">Code for Tokai</span> / 東海地方</li>
             <li><a href='http://codefortoyama.jimdo.com/' target='_blank'><span class="CfJtext">Code for Toyama City</span></a> / 富山県富山市</li>
@@ -176,7 +176,7 @@ ga('send', 'pageview');
             <li><a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fcode4fukuoka.org%2F&amp;t=NTRjM2U4NjkxN2ZmM2UyYjg2OTI3OGUxZmRiNDI3MWMzNzg0ZGJiNSxUbU4zdWpESg%3D%3D&amp;p=&amp;m=0" target="_blank"><span class="CfJtext">Code for Fukuoka</span></a> / 福岡県</li>
             <li><a href='http://codeforube.thetechshare.org/' target='_blank'><span class="CfJtext">Code for Ube</span></a> / 山口県宇部市</li>
             <li><a href='https://medium.com/code-for-beppu' target='_blank'><span class="CfJtext">Code for Beppu</span></a> / 大分県別府市</li>
-            <li><a href='https://medium.com/code-for-beppu' target='_blank'>><span class="CfJtext">Code for MIYAZAKI</span></a> / 宮崎県（主に宮崎市）</li>
+            <li><a href='https://medium.com/code-for-beppu' target='_blank'><span class="CfJtext">Code for MIYAZAKI</span></a> / 宮崎県（主に宮崎市）</li>
           </ul>
         </div>
       </div>
