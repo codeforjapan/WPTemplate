@@ -144,7 +144,6 @@ ga('send', 'pageview');
             <li><a href='http://www.codefortoda.org/' target='_blank'><span class="CfJtext">Code for TODA</span></a> / 埼玉県戸田市</li>
             <li><a href='https://opencity.jp/wako/pages/gp/e_koeki' target='_blank'><span class="CfJtext">Code for WAKO</span></a> / 埼玉県和光市</li>
             <li><span class="CfJtext">Code for Ichikawa</span> / 千葉県市川市</li>
-            <li><span class="CfJtext">Code for Ichikawa</span> / 千葉県市川市</li>
             <li><span class="CfJtext">Ichihara</span> / 千葉県市原市</li>
             <li><a href='http://code4funabashi.org/' target='_blank'><span class="CfJtext">Code for Funabashi</span></a> / 千葉県船橋市</li>
             <li><span class="CfJtext">Code for Yachiyo</span> / 千葉県八千代市</li>
