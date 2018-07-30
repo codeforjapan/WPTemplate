@@ -72,7 +72,7 @@ ga('send', 'pageview');
         </div>
       </div>
 
-      <h2 class="headings">公認団体（49）</h2>
+      <h2 class="headings">公認団体（50）</h2>
       <div class="secbox">
         <div class="secbox__left">
           <ul class="brigadelist">
@@ -110,6 +110,7 @@ ga('send', 'pageview');
             <li><a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.7104.info%2Fcodefor%2F&amp;t=NDhkMDM0ZDI0YjlkYzc4NjRlYWFjMjMwNTA1YTc1N2ZmNDM0NDJiYixUbU4zdWpESg%3D%3D&amp;p=&amp;m=0" target="_blank"><span class="CfJtext">Code for Nanto</span></a> / 富山県南砺市</li>
             <li><a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.codeforkanazawa.org%2F&amp;t=NGI5OTVmZjFmMDhlMzQ5NWY4OGY2NDBmMTdjMDk2NzdjMmFhMzNhOSxUbU4zdWpESg%3D%3D&amp;p=&amp;m=0" target="_blank"><span class="CfJtext">Code for Kanazawa</span></a> / 石川県</li>
             <li><a href="http://t.umblr.com/redirect?z=https%3A%2F%2Fwww.facebook.com%2Fpages%2FCODE-for-GIFU%2F592157627504886&amp;t=YTJhMzIwMTRiMmQzNDM4NjM3M2MwYTBkYWQxZjFiYzMyNTU4ZjdkOCxUbU4zdWpESg%3D%3D&amp;p=&amp;m=0" target="_blank"><span class="CfJtext">Code for Gifu</span></a> / 岐阜県</li>
+            <li><a href='https://www.code4aichi.org/' target='_blank'><span class="CfJtext">Code for Aichi</span></a> / 愛知県</li>
             <li><a href="http://t.umblr.com/redirect?z=https%3A%2F%2Fwww.facebook.com%2Fcode4nagoya&amp;t=YTBiYzk3MTU5NTgwOGNhZDE1OGEwNDlhYjdkMzcxMDQzZjNhZDcxNSxUbU4zdWpESg%3D%3D&amp;p=&amp;m=0" target="_blank"><span class="CfJtext">Code for Nagoya</span></a> / 愛知県名古屋市</li>
             <li><a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fuzura.org&amp;t=OTY5ZDFiNWM4YTA1ZjE3NGU5ZmJlODI2NDBlZWVhZDJmZGY5ZTI2ZCxUbU4zdWpESg%3D%3D&amp;p=&amp;m=0" target="_blank"><span class="CfJtext">Code for MIKAWA</span></a> / 愛知県三河地方</li>
             <li><a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.facebook.com%2Fcodeforshiga%2F&amp;
@@ -132,7 +133,7 @@ ga('send', 'pageview');
           </ul>
         </div>
       </div>
-      <h2 class="headings">公認準備中（38）</h2>
+      <h2 class="headings">公認準備中（36）</h2>
       <div class="secbox">
         <div class="secbox__left">
           <ul class="brigadelist">
@@ -161,7 +162,6 @@ ga('send', 'pageview');
           <ul class="brigadelist">
             <li><span class="CfJtext">Code for Shizuoka</span> / 静岡県</li>
             <li><span class="CfJtext">Code for Tokai</span> / 東海地方</li>
-            <li><a href='https://www.code4aichi.org/' target='_blank'><span class="CfJtext">Code for Aichi</span></a> / 愛知県</li>
             <li><a href='http://codefortoyama.jimdo.com/' target='_blank'><span class="CfJtext">Code for Toyama City</span></a> / 富山県富山市</li>
             <li><a href='http://sabae.cc/' target='_blank'><span class="CfJtext">Code for Sabae</span></a> / 福井県鯖江市</li>
             <li><a href='https://c4k987.wixsite.com/c4k987' target='_blank'><span class="CfJtext">Code for Kuwana</span></a> / 三重県桑名市</li>
@@ -175,7 +175,6 @@ ga('send', 'pageview');
             <li><a href='http://code4tottori.org/'><span class="CfJtext">Code for Tottori</span></a> / 鳥取県</li>
             <li><a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fcode4fukuoka.org%2F&amp;t=NTRjM2U4NjkxN2ZmM2UyYjg2OTI3OGUxZmRiNDI3MWMzNzg0ZGJiNSxUbU4zdWpESg%3D%3D&amp;p=&amp;m=0" target="_blank"><span class="CfJtext">Code for Fukuoka</span></a> / 福岡県</li>
             <li><a href='http://codeforube.thetechshare.org/' target='_blank'><span class="CfJtext">Code for Ube</span></a> / 山口県宇部市</li>
-            <li><a href='http://www.code4shunan.org' target='_blank'><span class="CfJtext">Code for Shunan</span></a> / 山口県周南市</li>
             <li><a href='https://medium.com/code-for-beppu' target='_blank'><span class="CfJtext">Code for Beppu</span></a> / 大分県別府市</li>
             <li><a href='https://medium.com/code-for-beppu' target='_blank'>><span class="CfJtext">Code for MIYAZAKI</span></a> / 宮崎県（主に宮崎市）</li>
           </ul>
