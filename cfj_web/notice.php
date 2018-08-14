@@ -1,14 +1,14 @@
 <div id="noticeArea">
   <ul class="notice">
     <li class="notice__item live">
-      <span class="live__subtitle">飲む&amp;食べる&amp;話す♪</span>
-      <span class="live__title">Civic Tech Live</span>
-      <a href="http://code4japan.peatix.com/" target="_blank">Civic Tech Liveへ参加する</a>
+      <span class="live__subtitle">プロジェクトを持ち込んでみんなで作ろう</span>
+      <span class="live__title">Social Hack Day</span>
+      <a href="https://hackday.code4japan.org/" target="_blank">Social Hack Dayへ参加する</a>
     </li>
     <li class="notice__item smt">
-      <span class="smt__subtitle">Code for Japan summit 2017</span>
-      <span class="smt__title">「BORDERLESS」</span>
-      <a href="https://summit2017.code4japan.org/" target="_blank">summit2017のサイトへ</a>
+      <span class="smt__subtitle">Code for Japan summit 2018</span>
+      <span class="smt__title">「SALVAGE」</span>
+      <a href="https://summit2018.code4japan.org/" target="_blank">summit2018のサイトへ</a>
     </li>
   </ul>
 </div><!-- noticeArea -->
