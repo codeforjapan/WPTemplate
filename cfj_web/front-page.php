@@ -63,7 +63,7 @@ echo rtrim($str, ", ");
 
 <div class="topfellowship">
   <div class="secinner">
-    <div class="topsectitle"><h2><span class="topsectitle__en">Fellowship</span><i class="topsectitle__ja">コーポレートフェローシップ</i></h2></div>
+    <div class="topsectitle"><h2><span class="topsectitle__en">Fellowship</span><i class="topsectitle__ja">地域フィールドラボ</i></h2></div>
     <div class="topfellowship__box">
 <?php if($loop2->have_posts()) : ?>
 <?php while ( $loop2->have_posts() ) : $loop2->the_post(); ?>
